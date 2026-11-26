@@ -41,7 +41,7 @@ The parts that generalise beyond one company I extract and publish as open-sourc
 
 ### [hr_lite](https://github.com/kshtzkr/hr_lite)
 
-![hr_lite gem version](https://img.shields.io/gem/v/hr_lite?style=flat-square&color=CC342D) ![hr_lite total downloads](https://img.shields.io/gem/dt/hr_lite?style=flat-square&label=downloads) ![MIT license](https://img.shields.io/badge/license-MIT-2F363D?style=flat-square)
+![hr_lite gem version](https://img.shields.io/gem/v/hr_lite?style=flat-square&color=CC342D) ![hr_lite total downloads](https://img.shields.io/gem/dt/hr_lite?style=flat-square&label=downloads&color=2F363D) ![MIT license](https://img.shields.io/badge/license-MIT-2F363D?style=flat-square)
 
 Mountable HRMS engine: geolocated attendance, leave, holiday calendar, Indian payroll (PF/ESI/PT/TDS) with salary-slip PDFs, kudos, appraisals.
 
@@ -52,7 +52,7 @@ bin/rails g hr_lite:install
 
 ### [instagram_connect](https://github.com/kshtzkr/instagram_connect)
 
-![instagram_connect gem version](https://img.shields.io/gem/v/instagram_connect?style=flat-square&color=CC342D) ![instagram_connect total downloads](https://img.shields.io/gem/dt/instagram_connect?style=flat-square&label=downloads) ![MIT license](https://img.shields.io/badge/license-MIT-2F363D?style=flat-square)
+![instagram_connect gem version](https://img.shields.io/gem/v/instagram_connect?style=flat-square&color=CC342D) ![instagram_connect total downloads](https://img.shields.io/gem/dt/instagram_connect?style=flat-square&label=downloads&color=2F363D) ![MIT license](https://img.shields.io/badge/license-MIT-2F363D?style=flat-square)
 
 Instagram DMs, comments and publishing for Rails over HMAC-verified Meta Graph webhooks, with OAuth token management.
 
@@ -63,7 +63,7 @@ bin/rails g instagram_connect:install
 
 ### [rails-contact](https://github.com/kshtzkr/rails-contact)
 
-![rails-contact gem version](https://img.shields.io/gem/v/rails-contact?style=flat-square&color=CC342D) ![rails-contact total downloads](https://img.shields.io/gem/dt/rails-contact?style=flat-square&label=downloads) ![MIT license](https://img.shields.io/badge/license-MIT-2F363D?style=flat-square)
+![rails-contact gem version](https://img.shields.io/gem/v/rails-contact?style=flat-square&color=CC342D) ![rails-contact total downloads](https://img.shields.io/gem/dt/rails-contact?style=flat-square&label=downloads&color=2F363D) ![MIT license](https://img.shields.io/badge/license-MIT-2F363D?style=flat-square)
 
 Contact CRUD with Elasticsearch-backed search and optional capped two-way Google Contacts sync.
 
@@ -74,7 +74,7 @@ bin/rails g rails:contact:install
 
 ### [whatsapp_notifier](https://github.com/kshtzkr/whatsapp_notifier)
 
-![whatsapp_notifier gem version](https://img.shields.io/gem/v/whatsapp_notifier?style=flat-square&color=CC342D) ![whatsapp_notifier total downloads](https://img.shields.io/gem/dt/whatsapp_notifier?style=flat-square&label=downloads) ![MIT license](https://img.shields.io/badge/license-MIT-2F363D?style=flat-square)
+![whatsapp_notifier gem version](https://img.shields.io/gem/v/whatsapp_notifier?style=flat-square&color=CC342D) ![whatsapp_notifier total downloads](https://img.shields.io/gem/dt/whatsapp_notifier?style=flat-square&label=downloads&color=2F363D) ![MIT license](https://img.shields.io/badge/license-MIT-2F363D?style=flat-square)
 
 WhatsApp messaging for Rails in one generator: QR auth, multi-user sessions, mailer-style notifications, rate-limited bulk delivery with retries.
 
