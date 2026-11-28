@@ -18,7 +18,7 @@
   <a href="#problems-ive-solved-in-the-field">Field work</a>
 </p>
 
-<p align="center">Forward Deployed Engineer / Solutions Engineer / Senior Ruby on Rails Engineer</p>
+<p align="center">Forward Deployed Engineer / Solutions Engineer / Lead Ruby on Rails Engineer</p>
 
 ---
 
